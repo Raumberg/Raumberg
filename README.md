@@ -4,13 +4,13 @@
   
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
-- 🔭 | My main branch of professional developer is Data Sciense and Deep Learning
+- 🔭 | My main branch of professional development is Data Sciense and Deep Learning
 
 - 📚 | I absolutly love to dive into world literature related not only to computer science topics, but also to quantum physics, mathematics and lots more!
 
-- 🚀 I am fueled by the excitement of pushing boundaries and exploring uncharted territories
+- 🚀 | I am fueled by the excitement of pushing boundaries and exploring uncharted territories
 
-- ⚡ Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections
+- ⚡ | Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections
 
 <h2 color="#ffd163">📡 If you are willing to contribute to OpenSource community with me:</h2>
 
