@@ -12,6 +12,12 @@
 
 - ⚡ | Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections
 
+```rust
+fn main() {
+  println!("Greetings!")
+}
+```
+
 <h2 color="#ffd163">📡 If you are willing to contribute to OpenSource community with me:</h2>
 
 <p align="left" >
@@ -22,6 +28,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,docker,kubernetes,git,linux,neovim,py,pytorch,rust,tensorflow,vscode)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raumberg&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raumberg&label=Profile%20views&color=0e75b6&style=flat" alt="Raumberg | Views" /> </p>
 <p align="center">
