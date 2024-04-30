@@ -15,8 +15,8 @@
 <h2 color="#ffd163">📡 If you are willing to contribute to OpenSource community with me:</h2>
 
 <p align="left" >
-<a href="https://t.me/raumberg" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="30" width="30"></a>
-<a href="https://discordapp.com/users/416312981270429696" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" height="30" width="30"></a>
+<a href="https://t.me/raumberg" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="60" width="60"></a>
+<a href="https://discordapp.com/users/416312981270429696" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" height="60" width="60"></a>
 
 ### 🧰 Frameworks and structures I worked with:
 
