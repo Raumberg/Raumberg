@@ -4,7 +4,7 @@
   
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
-- 🔭 | My main branch of professional development is Data Sciense and Deep Learning
+- 🔭 | My main branch of professional development is ML Engineering and Deep Learning
 
 - 📚 | I absolutly love to dive into world literature related not only to computer science topics, but also to quantum physics, mathematics and lots more!
 
