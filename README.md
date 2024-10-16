@@ -26,7 +26,7 @@ fn main() {
 
 ### 🧰 Frameworks and structures I worked with:
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,docker,kubernetes,git,linux,neovim,py,pytorch,rust,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,docker,kubernetes,git,linux,neovim,py,pytorch,rust,tensorflow,vscode,sklearn)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raumberg&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
