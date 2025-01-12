@@ -24,7 +24,7 @@ fn main() {
 <a href="https://t.me/raumberg" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="60" width="60"></a>
 <a href="https://discordapp.com/users/416312981270429696" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" height="60" width="60"></a>
 
-### 🧰 Frameworks and structures I worked with:
+### 🧰 [Frameworks and structures I worked with]:
 
 [![My Skills](https://skillicons.dev/icons?i=arch,bash,docker,kubernetes,git,linux,neovim,py,pytorch,rust,tensorflow,vscode,sklearn)](https://skillicons.dev)
 
