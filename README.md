@@ -36,11 +36,11 @@ fn main() {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raumberg&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📡 I have my own Russian Telegram Open group about LLMs and deep learning, come and see:
-[Attention Signs | Deep Learning open Telegram channel](https://t.me/attnsigns)
+### 📡 / I have my own Russian Telegram Open group about LLMs and deep learning, come and see:
+--== [Attention Signs | Deep Learning open Telegram channel](https://t.me/attnsigns) ==--
 
-### All my LLMs, datasets and more are available on HuggingFace:
-[Attention Signs | HuggingFace page](https://huggingface.co/attn-signs)
+### 📡 / All my LLMs, datasets and more are available on HuggingFace:
+--== [Attention Signs | HuggingFace page](https://huggingface.co/attn-signs) ==--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raumberg&label=Profile%20views&color=0e75b6&style=flat" alt="Raumberg | Views" /> </p>
 <p align="center">
