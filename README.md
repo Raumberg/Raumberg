@@ -37,6 +37,33 @@ fn main() {
     println!("Let’s build the future, one line of code at a time!");
 }
 ```
+
+## 📊 Github Stats (Expand to View)
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Raumberg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raumberg&show_icons=true&locale=en&theme=algolia" alt="Raumberg" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raumberg&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Raumberg" height="192px"/>
+	</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+	<a href="https://github.com/Raumberg"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Raumberg&custom_title=Raumberg%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
 <h2 color="#ffd163">📡 Let’s Collaborate!:</h2>
 
 <p align="left" >
