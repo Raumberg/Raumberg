@@ -28,7 +28,8 @@ Location: Moscow, Russia
 Frameworks: Torch, Transformers, LangChain, SKLearn, OpenCV
 Languages: Python, Rust
 Hobbies: Gaming, Programming, Science, Quantum Computing, Math, Music
-Discord: @raumberg
+Discord: raumberg
+Telegram: @raumberg
 ```
 
 ```rust
