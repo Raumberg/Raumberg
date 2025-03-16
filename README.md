@@ -1,24 +1,30 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello%20and%20welcome!&amp;height=100&amp;section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello%20World!&amp;height=100&amp;section=header)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&pause=1000&center=true&random=false&width=600&lines=I+am+an+IT+specialist+based+in+Russia." alt="Typing SVG" />
   
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
-- 🔭 | My main branch of professional development is ML Engineering and Deep Learning
+### **About Me**
+- 🧠 **Deep Learning & LLMs**: I’m deeply immersed in the world of artificial intelligence, specializing in deep learning and large language models. Building intelligent systems that push the boundaries of what’s possible is my passion.
+  
+- 💻 **Low-Level Programming**: I thrive on the challenge of working close to the metal. Whether it’s optimizing performance or crafting efficient systems, I love the precision and control that low-level languages offer.
 
-- 📚 | I absolutly love to dive into world literature related not only to computer science topics, but also to quantum physics, mathematics and lots more!
+- 🌍 **OpenSource Fanatic**: I believe in the power of collaboration and open knowledge. Contributing to and building open-source projects is my way of giving back to the community.
 
-- 🚀 | I am fueled by the excitement of pushing boundaries and exploring uncharted territories
+- ⚙️ **Optimizations Enjoyer**: I’m obsessed with making things faster, leaner, and more efficient. From algorithms to infrastructure, I’m always looking for ways to optimize.
 
-- ⚡ | Connecting with diverse minds is like embarking on a thrilling adventure, where I discover fresh perspectives and forge meaningful connections
+- 📚 **Math & Science Lover**: Mathematics and science are the foundations of my work. I’m constantly exploring new concepts and applying them to solve real-world problems.
+
+- 🚀 **Boundary Pusher**: I’m driven by the thrill of exploring uncharted territories and solving problems that haven’t been tackled before.
+
+---
 
 ```rust
 fn main() {
-  println!("Greetings!")
+    println!("Let’s build the future, one line of code at a time!");
 }
 ```
-
-<h2 color="#ffd163">📡 If you are willing to contribute to OpenSource community with me:</h2>
+<h2 color="#ffd163">📡 Let’s Collaborate!:</h2>
 
 <p align="left" >
 <a href="https://t.me/raumberg" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="60" width="60"></a>
@@ -34,3 +40,9 @@ fn main() {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+### 📡 I have my own Russian Telegram Open group about LLMs and deep learning, come and see:
+[Attention Signs | Deep Learning open Telegram channel](https://t.me/attnsigns)
+
+### All my LLMs, datasets and more are available on HuggingFace:
+[Attention Signs | HuggingFace page](https://huggingface.co/attn-signs)
