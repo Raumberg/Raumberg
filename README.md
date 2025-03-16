@@ -27,8 +27,8 @@ Shell: zsh
 Location: Moscow, Russia
 Frameworks: Torch, Transformers, LangChain, SKLearn, OpenCV
 Languages: Python, Rust
-Hobbies: Gaming, Programming, Science, Quantum Computing, Math
-Discord: Raumberg
+Hobbies: Gaming, Programming, Science, Quantum Computing, Math, Music
+Discord: @raumberg
 ```
 
 ```rust
