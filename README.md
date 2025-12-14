@@ -5,9 +5,12 @@
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
 ### **Reisen Raumberg | Machine Learning Engineer**
-### 📍 Moscow, Russia | Focus: Deep Learning, Large Language Models, Distributed Training, Quantitative Finance
+### 📍 Moscow, Russia
   
-I am a Machine Learning Engineer and Researcher with a deep interest in low-level optimization and efficient computing systems. My work bridges modern deep learning methods (LLMs, Transformers) and building high-performance infrastructure using Python, Rust and C++. I am a proponent of open science and strive to create reproducible, well-documented projects.
+I am a Machine Learning Engineer and Researcher with a deep interest in low-level optimization and efficient computing systems. My work bridges modern deep learning methods (LLMs, Transformers) and building high-performance infrastructure using Python, Rust and C++. I am a proponent of open science and strive to create reproducible, well-documented projects.  
+  
+Focus:  
+`Deep Learning` `Large Language Models` `Distributed Training` `Quantitative Finance`
 
 ### 📍 Research & Professional Interests
 - Large Language Models & Generative AI: Building, fine-tuning, and deploying language models. Working with frameworks such as PyTorch, Transformers, vLLM, DeepSpeed/Accelerate.
