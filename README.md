@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello%20World!&amp;height=100&amp;section=header)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&pause=1000&center=true&random=false&width=600&lines=I+am+an+IT+specialist+based+in+Russia." alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&pause=1000&center=true&random=false&width=600&lines=I+am+an+IT+specialist+based+in+Russia." alt="Typing SVG" /> -->
   
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/bmo.gif" alt="bmo dancing"/>
 
