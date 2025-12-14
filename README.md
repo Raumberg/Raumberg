@@ -24,11 +24,11 @@ Focus:
 - ML & Deep Learning: `PyTorch` `Transformers` `scikit-learn` `OpenCV`
 - Infrastructure & Tools: `Docker` `Kubernetes` `DeepSpeed` `FSDP` `vLLM` `Accelerate` `Triton`
 
-<h2 color="#ffd163">📫 Contact & Collaboration:</h2>
+### 📫 Contact & Collaboration
+I am open to scientific collaboration, discussions on ML projects, and knowledge exchange. You can reach me via:
 
-<p align="left" >
-<a href="https://t.me/raumberg" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="60" width="60"></a>
-<a href="https://discordapp.com/users/416312981270429696" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" height="60" width="60"></a>
+- Telegram: [@raumberg](https://t.me/raumberg)
+- Email: fallturm.bremen@gmail.com
 
 ### 🧰 [GitHub]:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raumberg&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
